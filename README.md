@@ -1,1 +1,3 @@
 # GitHub Seminar
+
+Bonjour, enchanté
